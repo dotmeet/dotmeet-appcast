@@ -6,7 +6,7 @@
             <title>Version 1.0.1</title>
             <description>Feature improvments and Minor bug fixes</description>
             <pubDate>Fri, 9 Jun 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.1" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.dotmeet.app" sparkle:version="1.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
